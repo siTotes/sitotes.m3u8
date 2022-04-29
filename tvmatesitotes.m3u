@@ -9,6 +9,10 @@
 ### JANGAN DI MODIF DAN JANGAN DI CURI KARENA SAYA BELI IPTV NYA. UDAH DI KASIH GRATIS MASIH AJA MO REMOD INI AWAS BANG KENA AZAB ###
 
 
-### CHANNEL 1 # || # MNC GRUP ###
+### CHANNEL 1 # || # MNCTV ###
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWJO6hXHiUqsetxf5RTIvCRHF49V9HaRP_93AdWMa6E3sdaFKWypHAK0k9QPr5bW-lkIo&usqp=CAU" group-title="MNC GRUP",MNCTV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd?bukuantv=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+
+### CHANNEL 2 # || # GTV ###
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWJO6hXHiUqsetxf5RTIvCRHF49V9HaRP_93AdWMa6E3sdaFKWypHAK0k9QPr5bW-lkIo&usqp=CAU" group-title="MNC GRUP",GTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd?bukuantv=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
