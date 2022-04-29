@@ -3,11 +3,11 @@
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/a0nl3zNoeLJJmpnWoa-vhoMfnh4=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" 
-group-title="RTV",RTV
+group-title="Channel Utama1",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rZLJR4RZ5HHOaYxlt95-hckbNC3_o3RDj_pnLaIOIMbKXrzNc6-NsgydaswHuKLmtpU&usqp=CAU" group-title="CHANNEL UTAMA",RCTI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rZLJR4RZ5HHOaYxlt95-hckbNC3_o3RDj_pnLaIOIMbKXrzNc6-NsgydaswHuKLmtpU&usqp=CAU" group-title="CHANNEL UTAMA1",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd?bukuantv=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
 
